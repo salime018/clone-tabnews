@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "eslint-config-next": "^16.0.3",
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Projeto inicial em programação",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT"
+}
